@@ -4,9 +4,12 @@
     "repositoryName": "seatones.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Seatones",
+    "postsPerPage": "1"
+  },
   "socialnetwork": {},
   "theme": {
-    "name": "casper"
+    "name": "saga"
   }
 }
